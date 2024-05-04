@@ -17,9 +17,6 @@ pids
 *.seed
 *.pid.lock
 
-# Directory for storing screenshots or PDFs created by your scripts
-images/
-pdf/
 
 # Optional macOS specific
 # .DS_Store
