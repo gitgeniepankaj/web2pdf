@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for storing screenshots or PDFs created by your scripts
+images/
+pdf/
+
+# Optional macOS specific
+# .DS_Store
+
+# Optional Windows specific
+# Thumbs.db
+# ehthumbs.db
+# Desktop.ini
+
+# Optional JetBrains specific
+# .idea/

@@ -1,0 +1,25 @@
+{
+  "name": "webpage-to-pdf",
+  "version": "1.0.0",
+  "description": "Process of reading URLs from a CSV file, scraping websites, taking screenshots, and converting these screenshots into full-width PDF documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "scraping",
+    "websites",
+    "taking",
+    "screenshots",
+    "pdf",
+    "node"
+  ],
+  "author": "Pankaj Dadure",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "image-size": "^1.1.1",
+    "pdfkit": "^0.15.0",
+    "puppeteer": "^22.7.1"
+  }
+}
