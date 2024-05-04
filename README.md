@@ -18,8 +18,8 @@ Ensure you have Node.js installed on your machine. This project was developed wi
 Clone the repository to your local machine:
 
 ```bash
-git clone https://yourrepositorylink.git
-cd your-project-directory
+git clone https://github.com/gitgeniepankaj/web2pdf
+cd web2pdf
 
 ```
 
