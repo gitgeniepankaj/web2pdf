@@ -34,6 +34,13 @@ node index.js
 
 ```
 
+## Video
+
+Checkout the video for more details and please like/subscribe 
+
+https://www.youtube.com/watch?v=MxgOUbrky90&t=12s
+
+
 ## Project Structure
 
 
